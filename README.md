@@ -1,4 +1,4 @@
-## react with functional component + state
+## react with functional component + useState
 
 ### `npm start`
 
@@ -11,3 +11,5 @@ You may also see any lint errors in the console.
 ### demo page
 [https://jedi1118.github.io/rating-react](https://jedi1118.github.io/rating-react)
 
+### deployment to GIT
+`npm run build deploy` to build, and then `git push` to the deployment dir.
